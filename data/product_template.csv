@@ -1,0 +1,31 @@
+product_id,sku_name,category,principal_origin,standard_cost_idr,list_price_idr,min_safety_stock
+SKU-CT-001,Carbide Insert CNMG 120408-MA,Cutting Tools,Japan,75000,115000,1200
+SKU-CT-002,Carbide Insert WNMG 080408-GM,Cutting Tools,Japan,82000,128000,1000
+SKU-CT-003,Carbide Insert TNMG 160404-SF,Cutting Tools,Japan,68000,105000,800
+SKU-CT-004,Solid Carbide End Mill 4F 10mm TiAlN,Cutting Tools,Taiwan,145000,235000,450
+SKU-CT-005,Solid Carbide End Mill 4F 12mm TiAlN,Cutting Tools,Taiwan,195000,310000,400
+SKU-CT-006,Indexable Drill Body 25mm 3D,Cutting Tools,Germany,1850000,2750000,45
+SKU-CT-007,Indexable Drill Inserts SPMT 07T208,Cutting Tools,Japan,92000,142000,600
+SKU-CT-008,Spiral Flute Machine Tap M8x1.25 HSS-E,Cutting Tools,Japan,125000,195000,350
+SKU-CT-009,Spiral Flute Machine Tap M10x1.5 HSS-E,Cutting Tools,Japan,148000,230000,300
+SKU-CT-010,ER32 Precision Collet 12mm DIN6499B,Cutting Tools,Taiwan,160000,250000,180
+SKU-CT-011,BT40 Milling Chuck Holder 100mm,Cutting Tools,Taiwan,920000,1450000,70
+SKU-CT-012,Cermet Turning Insert CCGT 09T304,Cutting Tools,Japan,88000,138000,500
+SKU-AD-001,Anaerobic Threadlocker 242 Med-Strength 50ml,Adhesives & Sealants,Germany,145000,220000,900
+SKU-AD-002,Anaerobic Threadlocker 271 High-Strength 250ml,Adhesives & Sealants,Germany,480000,720000,400
+SKU-AD-003,Thread Sealant 577 High-Pressure Paste 50ml,Adhesives & Sealants,Germany,195000,295000,500
+SKU-AD-004,Instant Adhesive Cyanoacrylate 401 20g,Adhesives & Sealants,Germany,65000,102000,1500
+SKU-AD-005,Instant Adhesive Surface Insensitive 406 20g,Adhesives & Sealants,Germany,72000,115000,1200
+SKU-AD-006,RTV Silicone Gasket Maker 598 Black 300ml,Adhesives & Sealants,USA,130000,198000,650
+SKU-AD-007,Retaining Compound Cylindrical 680 50ml,Adhesives & Sealants,Germany,210000,320000,350
+SKU-AD-008,Structural Epoxy Adhesive 2-Part 50ml,Adhesives & Sealants,Germany,185000,280000,250
+SKU-AD-009,Anaerobic Flange Sealant 518 Pen Gel 50ml,Adhesives & Sealants,Germany,225000,345000,300
+SKU-AD-010,UV Light Curing Adhesive 4305 28g,Adhesives & Sealants,USA,310000,480000,120
+SKU-MR-001,Heavy Duty Anti-Seize Moly Paste 500g,Maintenance & MRO,Germany,215000,335000,450
+SKU-MR-002,Copper Anti-Seize Lubricant Spray 400ml,Maintenance & MRO,Germany,110000,175000,600
+SKU-MR-003,Electrical Contact Cleaner Quick-Dry 400ml,Maintenance & MRO,Local,52000,85000,950
+SKU-MR-004,Penetrating Rust Solvent Spray 450ml,Maintenance & MRO,Local,48000,78000,1100
+SKU-MR-005,High-Temperature Bearing Grease EP2 1kg,Maintenance & MRO,Japan,165000,255000,500
+SKU-MR-006,Industrial Gear Oil ISO VG 220 20L Drum,Maintenance & MRO,Local,1150000,1680000,80
+SKU-MR-007,Polyurethane Machine Waylube 68 20L,Maintenance & MRO,Local,1080000,1590000,90
+SKU-MR-008,Food Grade Lubricant NSF H1 400ml Spray,Maintenance & MRO,Germany,175000,270000,220
