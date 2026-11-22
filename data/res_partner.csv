@@ -1,0 +1,351 @@
+customer_id,company_name,sector,city,province,region,assigned_branch_id,payment_terms,credit_limit_idr,account_status
+CUST-0001,CV Sulawesi Nickel MRO 1,Cement & Power Generation MRO,Cikarang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0002,CV Bintang Sejahtera Metal 2,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,1500000000,Dormant
+CUST-0003,CV Tri Mandiri 3,Oil & Gas / Chemical Processing,Medan,North Sumatra,Sumatra,BR-MDN,NET 30,75000000,Active
+CUST-0004,PT Garuda Presisi 4,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 90,750000000,Active
+CUST-0005,CV Pusaka Tehnik 5,Automotive Tier 1 & 2,Medan,North Sumatra,Sumatra,BR-MDN,NET 60,1500000000,Active
+CUST-0006,PT Sinar Cikarang 6,Oil & Gas / Chemical Processing,Karawang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0007,CV Surabaya Dies 7,Oil & Gas / Chemical Processing,Medan,North Sumatra,Sumatra,BR-MDN,NET 30,300000000,Active
+CUST-0008,CV Nusa Makmur 8,Oil & Gas / Chemical Processing,Surabaya,East Java,Java Core,BR-SBY,NET 30,150000000,Active
+CUST-0009,CV Kalimantan Heavy Parts 9,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,1500000000,Active
+CUST-0010,CV Mitra Perkasa 10,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 90,1500000000,Active
+CUST-0011,PT Kencana Tooling 11,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0012,PT Borneo Mining Supplies 12,Cement & Power Generation MRO,Surabaya,East Java,Java Core,BR-SBY,NET 30,75000000,Active
+CUST-0013,CV Penta Engineering 13,Oil & Gas / Chemical Processing,Medan,North Sumatra,Sumatra,BR-MDN,NET 30,300000000,Active
+CUST-0014,CV Indo Machining 14,Oil & Gas / Chemical Processing,Surabaya,East Java,Java Core,BR-SBY,NET 30,75000000,Active
+CUST-0015,CV Astra Dinamika 15,Heavy Equipment & Mining Fabrication,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 60,750000000,Active
+CUST-0016,PT Nusa Makmur 16,Precision Machining & Mold-Die,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,300000000,Active
+CUST-0017,PT Daya Machining 17,Precision Machining & Mold-Die,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,300000000,Active
+CUST-0018,PT Sinar Cikarang 18,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0019,PT Pusaka Tehnik 19,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0020,CV Karya Presisi 20,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 90,350000000,Active
+CUST-0021,CV Andalan Solusi MRO 21,Automotive Tier 1 & 2,Karawang,West Java,Java Core,BR-CKR,NET 30,2500000000,Active
+CUST-0022,PT Astra Dinamika 22,Automotive Tier 1 & 2,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 60,750000000,Dormant
+CUST-0023,CV Tri Mandiri 23,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0024,PT Pusaka Tehnik 24,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0025,CV Andalan Solusi MRO 25,Automotive Tier 1 & 2,Karawang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0026,CV Garuda Presisi 26,Cement & Power Generation MRO,Cikarang,West Java,Java Core,BR-CKR,NET 30,150000000,Dormant
+CUST-0027,PT Karya Presisi 27,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0028,PT Garuda Presisi 28,Oil & Gas / Chemical Processing,Surabaya,East Java,Java Core,BR-SBY,NET 60,75000000,Active
+CUST-0029,CV Berkat Teknik Utama 29,Heavy Equipment & Mining Fabrication,Surabaya,East Java,Java Core,BR-SBY,NET 90,2500000000,Active
+CUST-0030,PT Mitra Perkasa 30,Oil & Gas / Chemical Processing,Surabaya,East Java,Java Core,BR-SBY,NET 60,300000000,Active
+CUST-0031,CV Astra Dinamika 31,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 60,750000000,Active
+CUST-0032,PT Wira Manunggal 32,Precision Machining & Mold-Die,Surabaya,East Java,Java Core,BR-SBY,NET 30,150000000,Active
+CUST-0033,CV Andalan Solusi MRO 33,Oil & Gas / Chemical Processing,Surabaya,East Java,Java Core,BR-SBY,NET 30,75000000,Active
+CUST-0034,PT Surya Teknik Persada 34,Cement & Power Generation MRO,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 30,300000000,Active
+CUST-0035,CV Astra Dinamika 35,Oil & Gas / Chemical Processing,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 60,75000000,Active
+CUST-0036,CV Nusa Makmur 36,Precision Machining & Mold-Die,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 30,300000000,Active
+CUST-0037,CV Karya Presisi 37,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0038,CV Bintang Sejahtera Metal 38,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 90,2500000000,Active
+CUST-0039,CV Berkat Teknik Utama 39,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,750000000,Active
+CUST-0040,PT Borneo Mining Supplies 40,Cement & Power Generation MRO,Cikarang,West Java,Java Core,BR-CKR,NET 60,300000000,Active
+CUST-0041,CV Pusaka Tehnik 41,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 60,75000000,Active
+CUST-0042,CV Garuda Presisi 42,Oil & Gas / Chemical Processing,Surabaya,East Java,Java Core,BR-SBY,NET 60,75000000,Active
+CUST-0043,CV Indo Machining 43,Precision Machining & Mold-Die,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 30,150000000,Active
+CUST-0044,CV Bintang Sejahtera Metal 44,Oil & Gas / Chemical Processing,Medan,North Sumatra,Sumatra,BR-MDN,NET 60,300000000,Active
+CUST-0045,CV Nusa Makmur 45,Cement & Power Generation MRO,Karawang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0046,CV Kalimantan Heavy Parts 46,Automotive Tier 1 & 2,Medan,North Sumatra,Sumatra,BR-MDN,NET 60,2500000000,Active
+CUST-0047,PT Kalimantan Heavy Parts 47,Heavy Equipment & Mining Fabrication,Surabaya,East Java,Java Core,BR-SBY,NET 60,750000000,Active
+CUST-0048,PT Mitra Perkasa 48,Heavy Equipment & Mining Fabrication,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 60,2500000000,Active
+CUST-0049,PT Surya Teknik Persada 49,Oil & Gas / Chemical Processing,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,150000000,Active
+CUST-0050,CV Mega Metalindo 50,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 30,350000000,Dormant
+CUST-0051,PT Indo Machining 51,Heavy Equipment & Mining Fabrication,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 90,2500000000,Active
+CUST-0052,CV Borneo Mining Supplies 52,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 60,1500000000,Active
+CUST-0053,CV Wira Manunggal 53,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 90,1500000000,Active
+CUST-0054,CV Surya Teknik Persada 54,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0055,CV Astra Dinamika 55,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 60,300000000,Active
+CUST-0056,PT Kencana Tooling 56,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0057,PT Surya Teknik Persada 57,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0058,PT Indo Machining 58,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0059,PT Berkat Teknik Utama 59,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0060,PT Mega Metalindo 60,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 30,2500000000,Active
+CUST-0061,CV Astra Dinamika 61,Heavy Equipment & Mining Fabrication,Surabaya,East Java,Java Core,BR-SBY,NET 90,2500000000,Active
+CUST-0062,CV Andalan Solusi MRO 62,Cement & Power Generation MRO,Medan,North Sumatra,Sumatra,BR-MDN,NET 30,300000000,Active
+CUST-0063,CV Indo Machining 63,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0064,PT Penta Engineering 64,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0065,PT Kencana Tooling 65,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 90,750000000,Active
+CUST-0066,CV Bintang Sejahtera Metal 66,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 90,350000000,Dormant
+CUST-0067,CV Mitra Perkasa 67,Cement & Power Generation MRO,Karawang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0068,CV Sinar Cikarang 68,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0069,PT Surya Teknik Persada 69,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0070,PT Mega Metalindo 70,Oil & Gas / Chemical Processing,Karawang,West Java,Java Core,BR-CKR,NET 60,75000000,Active
+CUST-0071,PT Surabaya Dies 71,Oil & Gas / Chemical Processing,Medan,North Sumatra,Sumatra,BR-MDN,NET 60,300000000,Active
+CUST-0072,PT Bintang Sejahtera Metal 72,Precision Machining & Mold-Die,Surabaya,East Java,Java Core,BR-SBY,NET 30,75000000,Active
+CUST-0073,PT Berkat Teknik Utama 73,Cement & Power Generation MRO,Cikarang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0074,PT Indo Machining 74,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 30,1500000000,Active
+CUST-0075,PT Penta Engineering 75,Precision Machining & Mold-Die,Medan,North Sumatra,Sumatra,BR-MDN,NET 30,300000000,Active
+CUST-0076,PT Karya Presisi 76,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0077,PT Andalan Solusi MRO 77,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 30,350000000,Active
+CUST-0078,PT Bina Sarana 78,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0079,PT Nusa Makmur 79,Automotive Tier 1 & 2,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 60,2500000000,Active
+CUST-0080,PT Surabaya Dies 80,Oil & Gas / Chemical Processing,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,75000000,Active
+CUST-0081,CV Astra Dinamika 81,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 60,750000000,Dormant
+CUST-0082,CV Bintang Sejahtera Metal 82,Automotive Tier 1 & 2,Medan,North Sumatra,Sumatra,BR-MDN,NET 60,1500000000,Active
+CUST-0083,PT Wira Manunggal 83,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0084,CV Nusa Makmur 84,Precision Machining & Mold-Die,Medan,North Sumatra,Sumatra,BR-MDN,NET 60,300000000,Active
+CUST-0085,CV Penta Engineering 85,Oil & Gas / Chemical Processing,Medan,North Sumatra,Sumatra,BR-MDN,NET 30,150000000,Active
+CUST-0086,CV Wira Manunggal 86,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0087,PT Surabaya Dies 87,Automotive Tier 1 & 2,Karawang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0088,CV Tri Mandiri 88,Cement & Power Generation MRO,Cikarang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0089,PT Wira Manunggal 89,Cement & Power Generation MRO,Karawang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0090,PT Pusaka Tehnik 90,Heavy Equipment & Mining Fabrication,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,750000000,Active
+CUST-0091,PT Borneo Mining Supplies 91,Oil & Gas / Chemical Processing,Medan,North Sumatra,Sumatra,BR-MDN,NET 30,300000000,Active
+CUST-0092,PT Garuda Presisi 92,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 30,750000000,Active
+CUST-0093,CV Kalimantan Heavy Parts 93,Precision Machining & Mold-Die,Surabaya,East Java,Java Core,BR-SBY,NET 30,75000000,Active
+CUST-0094,CV Borneo Mining Supplies 94,Cement & Power Generation MRO,Cikarang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0095,CV Sinar Cikarang 95,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0096,CV Mega Metalindo 96,Oil & Gas / Chemical Processing,Karawang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0097,PT Surya Teknik Persada 97,Heavy Equipment & Mining Fabrication,Surabaya,East Java,Java Core,BR-SBY,NET 90,750000000,Active
+CUST-0098,CV Karya Presisi 98,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 90,750000000,Active
+CUST-0099,PT Andalan Solusi MRO 99,Cement & Power Generation MRO,Karawang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0100,PT Indo Machining 100,Oil & Gas / Chemical Processing,Surabaya,East Java,Java Core,BR-SBY,NET 30,75000000,Active
+CUST-0101,CV Karya Presisi 101,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0102,PT Pusaka Tehnik 102,Heavy Equipment & Mining Fabrication,Surabaya,East Java,Java Core,BR-SBY,NET 60,2500000000,Active
+CUST-0103,CV Kencana Tooling 103,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0104,PT Bina Sarana 104,Cement & Power Generation MRO,Karawang,West Java,Java Core,BR-CKR,NET 60,150000000,Active
+CUST-0105,PT Astra Dinamika 105,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0106,CV Surabaya Dies 106,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 90,350000000,Active
+CUST-0107,PT Berkat Teknik Utama 107,Automotive Tier 1 & 2,Karawang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0108,PT Pusaka Tehnik 108,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,750000000,Active
+CUST-0109,PT Karya Presisi 109,Heavy Equipment & Mining Fabrication,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,1500000000,Active
+CUST-0110,PT Daya Machining 110,Oil & Gas / Chemical Processing,Surabaya,East Java,Java Core,BR-SBY,NET 30,75000000,Active
+CUST-0111,PT Surya Teknik Persada 111,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,1500000000,Active
+CUST-0112,PT Penta Engineering 112,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 30,2500000000,Active
+CUST-0113,PT Wira Manunggal 113,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0114,CV Bina Sarana 114,Heavy Equipment & Mining Fabrication,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,750000000,Active
+CUST-0115,CV Borneo Mining Supplies 115,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 90,350000000,Dormant
+CUST-0116,CV Berkat Teknik Utama 116,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 30,750000000,Active
+CUST-0117,PT Surya Teknik Persada 117,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0118,CV Sulawesi Nickel MRO 118,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0119,PT Karya Presisi 119,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0120,CV Mega Metalindo 120,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,350000000,Active
+CUST-0121,CV Daya Machining 121,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0122,CV Astra Dinamika 122,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0123,CV Kencana Tooling 123,Automotive Tier 1 & 2,Karawang,West Java,Java Core,BR-CKR,NET 60,1500000000,Active
+CUST-0124,PT Tri Mandiri 124,Precision Machining & Mold-Die,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,300000000,Active
+CUST-0125,PT Daya Machining 125,Cement & Power Generation MRO,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,75000000,Active
+CUST-0126,CV Mega Metalindo 126,Cement & Power Generation MRO,Cikarang,West Java,Java Core,BR-CKR,NET 60,300000000,Active
+CUST-0127,PT Bintang Sejahtera Metal 127,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 90,1500000000,Active
+CUST-0128,PT Kalimantan Heavy Parts 128,Automotive Tier 1 & 2,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 90,2500000000,Active
+CUST-0129,PT Tri Mandiri 129,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 90,1500000000,Active
+CUST-0130,CV Karya Presisi 130,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0131,PT Sinar Cikarang 131,Cement & Power Generation MRO,Cikarang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0132,PT Mitra Perkasa 132,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0133,CV Mitra Perkasa 133,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 90,350000000,Active
+CUST-0134,CV Pusaka Tehnik 134,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0135,PT Penta Engineering 135,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 90,1500000000,Active
+CUST-0136,CV Indo Machining 136,Precision Machining & Mold-Die,Surabaya,East Java,Java Core,BR-SBY,NET 30,150000000,Active
+CUST-0137,PT Daya Machining 137,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0138,CV Kencana Tooling 138,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 90,2500000000,Active
+CUST-0139,PT Kencana Tooling 139,Cement & Power Generation MRO,Surabaya,East Java,Java Core,BR-SBY,NET 30,300000000,Active
+CUST-0140,PT Kencana Tooling 140,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 60,300000000,Active
+CUST-0141,CV Mitra Perkasa 141,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 90,350000000,Active
+CUST-0142,PT Bintang Sejahtera Metal 142,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0143,PT Nusa Makmur 143,Precision Machining & Mold-Die,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,150000000,Active
+CUST-0144,PT Karya Presisi 144,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,1500000000,Dormant
+CUST-0145,CV Sinar Cikarang 145,Automotive Tier 1 & 2,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 60,2500000000,Active
+CUST-0146,PT Wira Manunggal 146,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,350000000,Active
+CUST-0147,PT Kencana Tooling 147,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0148,CV Bina Sarana 148,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,350000000,Active
+CUST-0149,CV Bina Sarana 149,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0150,CV Wira Manunggal 150,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 90,1500000000,Active
+CUST-0151,CV Nusa Makmur 151,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,1500000000,Active
+CUST-0152,PT Wira Manunggal 152,Automotive Tier 1 & 2,Karawang,West Java,Java Core,BR-CKR,NET 90,350000000,Active
+CUST-0153,CV Kencana Tooling 153,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0154,PT Karya Presisi 154,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 60,750000000,Active
+CUST-0155,PT Andalan Solusi MRO 155,Cement & Power Generation MRO,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,150000000,Active
+CUST-0156,PT Sinar Cikarang 156,Automotive Tier 1 & 2,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 60,1500000000,Active
+CUST-0157,CV Wira Manunggal 157,Precision Machining & Mold-Die,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 60,75000000,Active
+CUST-0158,PT Surya Teknik Persada 158,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0159,CV Bintang Sejahtera Metal 159,Heavy Equipment & Mining Fabrication,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,750000000,Active
+CUST-0160,PT Daya Machining 160,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 60,75000000,Active
+CUST-0161,PT Karya Presisi 161,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0162,CV Borneo Mining Supplies 162,Cement & Power Generation MRO,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,300000000,Active
+CUST-0163,CV Surabaya Dies 163,Oil & Gas / Chemical Processing,Karawang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0164,CV Kalimantan Heavy Parts 164,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,350000000,Active
+CUST-0165,PT Borneo Mining Supplies 165,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,750000000,Active
+CUST-0166,CV Daya Machining 166,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0167,PT Bintang Sejahtera Metal 167,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0168,PT Surya Teknik Persada 168,Cement & Power Generation MRO,Surabaya,East Java,Java Core,BR-SBY,NET 60,150000000,Active
+CUST-0169,PT Andalan Solusi MRO 169,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 90,1500000000,Active
+CUST-0170,CV Surabaya Dies 170,Automotive Tier 1 & 2,Medan,North Sumatra,Sumatra,BR-MDN,NET 60,350000000,Active
+CUST-0171,CV Sulawesi Nickel MRO 171,Heavy Equipment & Mining Fabrication,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,1500000000,Active
+CUST-0172,CV Bina Sarana 172,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0173,CV Garuda Presisi 173,Cement & Power Generation MRO,Cikarang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0174,PT Kencana Tooling 174,Oil & Gas / Chemical Processing,Karawang,West Java,Java Core,BR-CKR,NET 60,300000000,Active
+CUST-0175,PT Wira Manunggal 175,Cement & Power Generation MRO,Surabaya,East Java,Java Core,BR-SBY,NET 30,300000000,Active
+CUST-0176,CV Kalimantan Heavy Parts 176,Automotive Tier 1 & 2,Medan,North Sumatra,Sumatra,BR-MDN,NET 30,1500000000,Active
+CUST-0177,PT Pusaka Tehnik 177,Automotive Tier 1 & 2,Karawang,West Java,Java Core,BR-CKR,NET 90,1500000000,Active
+CUST-0178,PT Wira Manunggal 178,Cement & Power Generation MRO,Medan,North Sumatra,Sumatra,BR-MDN,NET 60,300000000,Active
+CUST-0179,PT Daya Machining 179,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0180,PT Surya Teknik Persada 180,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 60,1500000000,Active
+CUST-0181,CV Borneo Mining Supplies 181,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0182,CV Kalimantan Heavy Parts 182,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,1500000000,Active
+CUST-0183,CV Sinar Cikarang 183,Cement & Power Generation MRO,Karawang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0184,CV Berkat Teknik Utama 184,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0185,PT Indo Machining 185,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 60,1500000000,Active
+CUST-0186,CV Wira Manunggal 186,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0187,CV Mitra Perkasa 187,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 30,350000000,Active
+CUST-0188,CV Daya Machining 188,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0189,CV Kencana Tooling 189,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 90,750000000,Active
+CUST-0190,PT Karya Presisi 190,Automotive Tier 1 & 2,Karawang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0191,PT Mega Metalindo 191,Oil & Gas / Chemical Processing,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,75000000,Active
+CUST-0192,PT Kalimantan Heavy Parts 192,Automotive Tier 1 & 2,Medan,North Sumatra,Sumatra,BR-MDN,NET 90,750000000,Active
+CUST-0193,CV Borneo Mining Supplies 193,Heavy Equipment & Mining Fabrication,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 90,350000000,Active
+CUST-0194,CV Surabaya Dies 194,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 60,2500000000,Active
+CUST-0195,PT Kalimantan Heavy Parts 195,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0196,CV Pusaka Tehnik 196,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0197,PT Berkat Teknik Utama 197,Cement & Power Generation MRO,Karawang,West Java,Java Core,BR-CKR,NET 60,75000000,Active
+CUST-0198,CV Bina Sarana 198,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 90,2500000000,Active
+CUST-0199,CV Tri Mandiri 199,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 90,2500000000,Active
+CUST-0200,PT Borneo Mining Supplies 200,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0201,PT Sinar Cikarang 201,Precision Machining & Mold-Die,Surabaya,East Java,Java Core,BR-SBY,NET 60,150000000,Active
+CUST-0202,PT Sulawesi Nickel MRO 202,Automotive Tier 1 & 2,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 90,1500000000,Dormant
+CUST-0203,PT Penta Engineering 203,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0204,CV Karya Presisi 204,Precision Machining & Mold-Die,Medan,North Sumatra,Sumatra,BR-MDN,NET 30,75000000,Active
+CUST-0205,PT Kalimantan Heavy Parts 205,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 60,300000000,Active
+CUST-0206,CV Mega Metalindo 206,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0207,CV Garuda Presisi 207,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0208,PT Pusaka Tehnik 208,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0209,PT Sulawesi Nickel MRO 209,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,1500000000,Active
+CUST-0210,CV Karya Presisi 210,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0211,PT Surya Teknik Persada 211,Automotive Tier 1 & 2,Karawang,West Java,Java Core,BR-CKR,NET 90,2500000000,Active
+CUST-0212,PT Sulawesi Nickel MRO 212,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,750000000,Active
+CUST-0213,PT Berkat Teknik Utama 213,Cement & Power Generation MRO,Karawang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0214,PT Tri Mandiri 214,Automotive Tier 1 & 2,Karawang,West Java,Java Core,BR-CKR,NET 90,1500000000,Dormant
+CUST-0215,CV Pusaka Tehnik 215,Heavy Equipment & Mining Fabrication,Surabaya,East Java,Java Core,BR-SBY,NET 60,2500000000,Active
+CUST-0216,PT Kencana Tooling 216,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0217,CV Bintang Sejahtera Metal 217,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 30,1500000000,Active
+CUST-0218,PT Sinar Cikarang 218,Automotive Tier 1 & 2,Karawang,West Java,Java Core,BR-CKR,NET 90,2500000000,Active
+CUST-0219,CV Mega Metalindo 219,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0220,PT Kencana Tooling 220,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0221,PT Sulawesi Nickel MRO 221,Precision Machining & Mold-Die,Medan,North Sumatra,Sumatra,BR-MDN,NET 60,150000000,Active
+CUST-0222,PT Surabaya Dies 222,Precision Machining & Mold-Die,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,150000000,Active
+CUST-0223,PT Andalan Solusi MRO 223,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0224,CV Borneo Mining Supplies 224,Automotive Tier 1 & 2,Karawang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0225,CV Daya Machining 225,Cement & Power Generation MRO,Cikarang,West Java,Java Core,BR-CKR,NET 60,150000000,Active
+CUST-0226,PT Nusa Makmur 226,Cement & Power Generation MRO,Surabaya,East Java,Java Core,BR-SBY,NET 30,150000000,Active
+CUST-0227,CV Penta Engineering 227,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 30,2500000000,Active
+CUST-0228,PT Sinar Cikarang 228,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 60,150000000,Active
+CUST-0229,CV Surabaya Dies 229,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 60,300000000,Active
+CUST-0230,PT Borneo Mining Supplies 230,Precision Machining & Mold-Die,Surabaya,East Java,Java Core,BR-SBY,NET 30,300000000,Active
+CUST-0231,PT Bintang Sejahtera Metal 231,Oil & Gas / Chemical Processing,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,150000000,Dormant
+CUST-0232,PT Surabaya Dies 232,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 90,750000000,Active
+CUST-0233,PT Pusaka Tehnik 233,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 90,350000000,Active
+CUST-0234,PT Andalan Solusi MRO 234,Precision Machining & Mold-Die,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,150000000,Active
+CUST-0235,CV Surabaya Dies 235,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0236,PT Tri Mandiri 236,Cement & Power Generation MRO,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 30,300000000,Active
+CUST-0237,CV Wira Manunggal 237,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 90,350000000,Active
+CUST-0238,CV Surya Teknik Persada 238,Cement & Power Generation MRO,Surabaya,East Java,Java Core,BR-SBY,NET 30,150000000,Active
+CUST-0239,CV Surabaya Dies 239,Automotive Tier 1 & 2,Karawang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0240,PT Karya Presisi 240,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 60,1500000000,Active
+CUST-0241,PT Indo Machining 241,Oil & Gas / Chemical Processing,Karawang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0242,CV Mega Metalindo 242,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0243,CV Andalan Solusi MRO 243,Heavy Equipment & Mining Fabrication,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 90,350000000,Active
+CUST-0244,PT Sulawesi Nickel MRO 244,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0245,PT Pusaka Tehnik 245,Oil & Gas / Chemical Processing,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 30,300000000,Active
+CUST-0246,CV Indo Machining 246,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0247,PT Indo Machining 247,Cement & Power Generation MRO,Karawang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0248,CV Sulawesi Nickel MRO 248,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 30,750000000,Active
+CUST-0249,CV Sulawesi Nickel MRO 249,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 60,750000000,Active
+CUST-0250,CV Berkat Teknik Utama 250,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,1500000000,Active
+CUST-0251,PT Tri Mandiri 251,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 60,300000000,Active
+CUST-0252,CV Kalimantan Heavy Parts 252,Cement & Power Generation MRO,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,75000000,Active
+CUST-0253,PT Kencana Tooling 253,Oil & Gas / Chemical Processing,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 30,75000000,Active
+CUST-0254,PT Berkat Teknik Utama 254,Oil & Gas / Chemical Processing,Medan,North Sumatra,Sumatra,BR-MDN,NET 30,150000000,Active
+CUST-0255,PT Surabaya Dies 255,Automotive Tier 1 & 2,Medan,North Sumatra,Sumatra,BR-MDN,NET 60,2500000000,Active
+CUST-0256,CV Sulawesi Nickel MRO 256,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 90,750000000,Active
+CUST-0257,PT Wira Manunggal 257,Oil & Gas / Chemical Processing,Surabaya,East Java,Java Core,BR-SBY,NET 60,300000000,Active
+CUST-0258,PT Sinar Cikarang 258,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0259,PT Astra Dinamika 259,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0260,CV Daya Machining 260,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0261,CV Karya Presisi 261,Cement & Power Generation MRO,Karawang,West Java,Java Core,BR-CKR,NET 60,75000000,Active
+CUST-0262,PT Indo Machining 262,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 60,1500000000,Active
+CUST-0263,PT Penta Engineering 263,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0264,PT Pusaka Tehnik 264,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0265,CV Karya Presisi 265,Heavy Equipment & Mining Fabrication,Medan,North Sumatra,Sumatra,BR-MDN,NET 60,2500000000,Active
+CUST-0266,CV Nusa Makmur 266,Cement & Power Generation MRO,Surabaya,East Java,Java Core,BR-SBY,NET 30,150000000,Active
+CUST-0267,PT Sulawesi Nickel MRO 267,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 90,750000000,Active
+CUST-0268,CV Garuda Presisi 268,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0269,CV Astra Dinamika 269,Oil & Gas / Chemical Processing,Karawang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0270,CV Bintang Sejahtera Metal 270,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0271,CV Kalimantan Heavy Parts 271,Heavy Equipment & Mining Fabrication,Surabaya,East Java,Java Core,BR-SBY,NET 90,350000000,Active
+CUST-0272,CV Bina Sarana 272,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,750000000,Active
+CUST-0273,CV Surya Teknik Persada 273,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,350000000,Active
+CUST-0274,CV Garuda Presisi 274,Automotive Tier 1 & 2,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 60,1500000000,Active
+CUST-0275,CV Surabaya Dies 275,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0276,CV Bintang Sejahtera Metal 276,Automotive Tier 1 & 2,Medan,North Sumatra,Sumatra,BR-MDN,NET 60,750000000,Active
+CUST-0277,PT Daya Machining 277,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 90,750000000,Active
+CUST-0278,PT Kencana Tooling 278,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 30,1500000000,Active
+CUST-0279,CV Sinar Cikarang 279,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0280,CV Bintang Sejahtera Metal 280,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,750000000,Active
+CUST-0281,CV Mega Metalindo 281,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0282,CV Andalan Solusi MRO 282,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0283,CV Surya Teknik Persada 283,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0284,CV Penta Engineering 284,Heavy Equipment & Mining Fabrication,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 90,2500000000,Active
+CUST-0285,PT Mega Metalindo 285,Cement & Power Generation MRO,Cikarang,West Java,Java Core,BR-CKR,NET 60,75000000,Active
+CUST-0286,CV Wira Manunggal 286,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 60,75000000,Active
+CUST-0287,CV Daya Machining 287,Automotive Tier 1 & 2,Karawang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0288,PT Surabaya Dies 288,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0289,PT Tri Mandiri 289,Oil & Gas / Chemical Processing,Medan,North Sumatra,Sumatra,BR-MDN,NET 60,300000000,Active
+CUST-0290,PT Pusaka Tehnik 290,Automotive Tier 1 & 2,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 60,750000000,Active
+CUST-0291,CV Daya Machining 291,Heavy Equipment & Mining Fabrication,Surabaya,East Java,Java Core,BR-SBY,NET 60,1500000000,Active
+CUST-0292,PT Karya Presisi 292,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 90,750000000,Active
+CUST-0293,PT Karya Presisi 293,Cement & Power Generation MRO,Surabaya,East Java,Java Core,BR-SBY,NET 30,75000000,Active
+CUST-0294,CV Mega Metalindo 294,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0295,CV Karya Presisi 295,Precision Machining & Mold-Die,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,75000000,Active
+CUST-0296,PT Borneo Mining Supplies 296,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0297,CV Sulawesi Nickel MRO 297,Automotive Tier 1 & 2,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 90,1500000000,Active
+CUST-0298,PT Kalimantan Heavy Parts 298,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0299,PT Surya Teknik Persada 299,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 60,350000000,Active
+CUST-0300,CV Berkat Teknik Utama 300,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0301,PT Andalan Solusi MRO 301,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 90,2500000000,Active
+CUST-0302,PT Nusa Makmur 302,Oil & Gas / Chemical Processing,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,150000000,Active
+CUST-0303,CV Surya Teknik Persada 303,Oil & Gas / Chemical Processing,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,75000000,Dormant
+CUST-0304,PT Sinar Cikarang 304,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0305,PT Indo Machining 305,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 60,350000000,Active
+CUST-0306,CV Andalan Solusi MRO 306,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0307,CV Wira Manunggal 307,Automotive Tier 1 & 2,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 90,350000000,Active
+CUST-0308,PT Borneo Mining Supplies 308,Oil & Gas / Chemical Processing,Karawang,West Java,Java Core,BR-CKR,NET 60,75000000,Active
+CUST-0309,PT Berkat Teknik Utama 309,Oil & Gas / Chemical Processing,Medan,North Sumatra,Sumatra,BR-MDN,NET 30,150000000,Dormant
+CUST-0310,PT Sulawesi Nickel MRO 310,Heavy Equipment & Mining Fabrication,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 90,1500000000,Active
+CUST-0311,CV Surya Teknik Persada 311,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 60,75000000,Active
+CUST-0312,CV Borneo Mining Supplies 312,Precision Machining & Mold-Die,Karawang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0313,PT Garuda Presisi 313,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,2500000000,Active
+CUST-0314,PT Pusaka Tehnik 314,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 90,2500000000,Active
+CUST-0315,CV Mega Metalindo 315,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 60,750000000,Dormant
+CUST-0316,CV Kencana Tooling 316,Cement & Power Generation MRO,Cikarang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0317,CV Mitra Perkasa 317,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0318,CV Bintang Sejahtera Metal 318,Cement & Power Generation MRO,Cikarang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0319,PT Karya Presisi 319,Precision Machining & Mold-Die,Surabaya,East Java,Java Core,BR-SBY,NET 30,75000000,Active
+CUST-0320,CV Daya Machining 320,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0321,CV Bina Sarana 321,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,350000000,Active
+CUST-0322,CV Garuda Presisi 322,Oil & Gas / Chemical Processing,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 60,150000000,Active
+CUST-0323,CV Daya Machining 323,Cement & Power Generation MRO,Cikarang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0324,PT Sulawesi Nickel MRO 324,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 30,350000000,Active
+CUST-0325,PT Andalan Solusi MRO 325,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 60,300000000,Active
+CUST-0326,PT Sulawesi Nickel MRO 326,Precision Machining & Mold-Die,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 30,300000000,Active
+CUST-0327,CV Sinar Cikarang 327,Precision Machining & Mold-Die,Surabaya,East Java,Java Core,BR-SBY,NET 30,75000000,Active
+CUST-0328,CV Astra Dinamika 328,Automotive Tier 1 & 2,Karawang,West Java,Java Core,BR-CKR,NET 90,350000000,Active
+CUST-0329,PT Karya Presisi 329,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0330,CV Surabaya Dies 330,Automotive Tier 1 & 2,Surabaya,East Java,Java Core,BR-SBY,NET 90,2500000000,Active
+CUST-0331,PT Penta Engineering 331,Oil & Gas / Chemical Processing,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 30,75000000,Active
+CUST-0332,PT Bina Sarana 332,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0333,CV Mitra Perkasa 333,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 90,750000000,Active
+CUST-0334,PT Kencana Tooling 334,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0335,PT Garuda Presisi 335,Heavy Equipment & Mining Fabrication,Cikarang,West Java,Java Core,BR-CKR,NET 30,350000000,Active
+CUST-0336,CV Surya Teknik Persada 336,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0337,PT Bina Sarana 337,Precision Machining & Mold-Die,Surabaya,East Java,Java Core,BR-SBY,NET 30,300000000,Active
+CUST-0338,PT Tri Mandiri 338,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 60,300000000,Active
+CUST-0339,PT Surya Teknik Persada 339,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 60,2500000000,Active
+CUST-0340,PT Mega Metalindo 340,Oil & Gas / Chemical Processing,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 30,150000000,Active
+CUST-0341,PT Tri Mandiri 341,Automotive Tier 1 & 2,Balikpapan,East Kalimantan,Eastern Expansion,BR-BPN,NET 90,1500000000,Active
+CUST-0342,PT Andalan Solusi MRO 342,Automotive Tier 1 & 2,Medan,North Sumatra,Sumatra,BR-MDN,NET 30,1500000000,Dormant
+CUST-0343,CV Borneo Mining Supplies 343,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 30,75000000,Active
+CUST-0344,PT Bina Sarana 344,Oil & Gas / Chemical Processing,Cikarang,West Java,Java Core,BR-CKR,NET 60,75000000,Active
+CUST-0345,CV Mitra Perkasa 345,Cement & Power Generation MRO,Karawang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0346,CV Mitra Perkasa 346,Heavy Equipment & Mining Fabrication,Karawang,West Java,Java Core,BR-CKR,NET 60,750000000,Active
+CUST-0347,PT Mitra Perkasa 347,Precision Machining & Mold-Die,Cikarang,West Java,Java Core,BR-CKR,NET 30,150000000,Active
+CUST-0348,CV Daya Machining 348,Automotive Tier 1 & 2,Cikarang,West Java,Java Core,BR-CKR,NET 30,2500000000,Active
+CUST-0349,PT Penta Engineering 349,Oil & Gas / Chemical Processing,Karawang,West Java,Java Core,BR-CKR,NET 30,300000000,Active
+CUST-0350,CV Mitra Perkasa 350,Automotive Tier 1 & 2,Makassar,South Sulawesi,Eastern Expansion,BR-MKS,NET 60,1500000000,Active
