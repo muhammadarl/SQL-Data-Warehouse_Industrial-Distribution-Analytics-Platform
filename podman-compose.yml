@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:17-alpine
+    container_name: postgres_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: [Feel free to set it as you like]
+      POSTGRES_PASSWORD: [Feel free to set it as you like]
+      POSTGRES_DB: industrial_db
+    ports:
+      - 5432:5432
+    volumes:
+      - postgres_data:/var/lib/postgresql/postgres_data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U {POSTGRES_USER - replace it} -d industrial_db"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    
+  etl-service:
+    image: etl-service
+    build:
+      context: .
+      dockerfile: src/Dockerfile
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DESTINATION__POSTGRES__CREDENTIALS__DATABASE: industrial_db
+      DESTINATION__POSTGRES__CREDENTIALS__PASSWORD: Feel free to set it as you like]
+      DESTINATION__POSTGRES__CREDENTIALS__USERNAME: [Feel free to set it as you like]
+      DESTINATION__POSTGRES__CREDENTIALS__HOST: postgres
+      DESTINATION__POSTGRES__CREDENTIALS__PORT: 5432
+    volumes:
+      - dlt_state:/root/.dlt/pipelines
+
+volumes:
+  postgres_data:
+  dlt_state:
